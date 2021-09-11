@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋🏻, I'm Bhaskar</h1>
-<p align="center">A curious Frontend JavaScript developer from India 🇮🇳 , currently working remotely from home</p>
+<p align="center">A curious Frontend JavaScript developer from India :In: , currently working remotely from home</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhaskar20&color=FAC151"/> 
   <img src="https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20"/> 
 </p>
 
-- :book: &nbsp;Tech, stacks and courses I will focus on next: _Harvard CS50_, _Node_, _Typescript_, _Express_, _MongoDB_, _GCP_, _UX Google certification_, _React Native_, _Flutter_
+- :book: &nbsp;Tech, stacks and courses I will focus on next: _Node_, _Typescript_, _Express_, _MongoDB_, _GCP_, _React Native_, _Flutter_
 
 - 📫 &nbsp;Write me: <sharmabhaskar13@gmail.com>
 
