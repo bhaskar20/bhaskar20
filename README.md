@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Bhaskar</h1>
-<p align="center">A curious Frontend JavaScript developer from India :In: , currently working remotely from home</p>
+<p align="center">A curious Frontend JavaScript developer from Singapore, currently working remotely</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhaskar20&color=FAC151"/> 
